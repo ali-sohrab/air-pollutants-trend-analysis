@@ -13,7 +13,7 @@ Install all the requirements for data preprocessing, python and machine learning
 ```
 python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
 ```
-> **Note:**
+> **Steps:**
 
 > - Start Anaconda Navigator
 > - Launch Jupyter Notebook.
