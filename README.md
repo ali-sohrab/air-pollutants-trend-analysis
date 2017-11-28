@@ -9,8 +9,14 @@ To visualize and preprocess air pollution dataset and implement machine learning
 3. [Tableau](https://www.tableau.com/products/desktop)
 
 # How to
-1. Start Anaconda Navigator
-2. Launch Jupyter Notebook
-3. Copy iPython scripts to specific location on drive
-4. Search location of iPython scripts from Jupyter Notebook
-5. Start script and execute Run All option under Cell tab
+Install all the requirements for data preprocessing, python and machine learning. [numpy, scipy, pandas, ipython, matplotlib, scikit-learn, networkx](https://scipy.org/install.html)
+```
+python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+```
+> **Note:**
+
+> - Start Anaconda Navigator
+> - Launch Jupyter Notebook.
+> - Copy iPython scripts to specific location on drive
+> - Search location of iPython scripts from Jupyter Notebook
+> - Start script and execute Run All option under Cell tabs
