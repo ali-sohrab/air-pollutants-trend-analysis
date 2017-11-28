@@ -1,4 +1,4 @@
-# Air Pollutants Trend Analysis
+# Air Pollutants Trend Analysis And Prediction
 
 # Objective
 To visualize and preprocess air pollution dataset and implement machine learning algorithms to predict trend analysis of air pollutants.
